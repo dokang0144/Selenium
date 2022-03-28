@@ -11,7 +11,7 @@ pip install selenium
 ```
 ### 2. WebDriver 설치
 + 크롬 버전 확인
-  + ``` 브라우저 → 메뉴 → 도움말 → Chrome 정보``` 로 크롬 버전을 확인한다.
+  + ``` 더보기 → 설정 → Chrome 정보``` 로 크롬 버전을 확인한다.
  ![image](https://user-images.githubusercontent.com/88234731/155141104-55c61c19-4596-41d1-9955-ddc1d570c1f5.png)
 + WebDriver 설치
   + [chromedriver 링크](https://chromedriver.chromium.org/downloads)로 들어간다.
