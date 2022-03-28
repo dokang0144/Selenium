@@ -19,4 +19,4 @@ pip install selenium
   ![image](https://user-images.githubusercontent.com/88234731/155143294-68d71f09-030e-4f2b-bd3a-e98914e87acc.png)
 
 ## 셀레니움 시작
-다운받은 webDriver를 파일에 넣어주고 자신이 다운받은 브라우저를 설정해준다.
+다운받은 chromedriver을 파일에 넣어주고 자신이 다운받은 브라우저를 설정해준다.
