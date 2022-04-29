@@ -32,3 +32,4 @@ pip install selenium
 ><br>
 ### 위 코드를 활용하여 인터파크 자동구매 매크로를 만들었습니다.
 ![image](https://user-images.githubusercontent.com/88234731/160406753-0fe4d72b-ebbc-4348-befe-50cf694e6c2c.png)
+
