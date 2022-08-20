@@ -33,3 +33,13 @@ pip install selenium
 ### 위 코드를 활용하여 인터파크 자동구매 매크로를 만들었습니다.
 ![image](https://user-images.githubusercontent.com/88234731/160406753-0fe4d72b-ebbc-4348-befe-50cf694e6c2c.png)
 
+## 후기(잡담)
+
+![글카](https://user-images.githubusercontent.com/88234731/185746707-a1a41bb6-1684-4d1e-8f3e-74d02c5a2f4e.png)<br>
+제가 만든 웹 매크로를 사용하여 그래픽카드를 특가로 사는데 성공하였습니다.<br>
+제가 사자마자 바로 품절이 되었더라고요...<br>
+비트코인 채굴대란 때문에 그래픽카드 가격이 많이 올라서 진짜 간절하게 사고싶었는데<br>
+일주일간의 노력이 헛되지 않았네요<br>
+
+![SNOW_20220223_210956_776](https://user-images.githubusercontent.com/88234731/185747317-e7ced888-5fc6-4113-ae82-c00ff82b17b0.jpg)
+
